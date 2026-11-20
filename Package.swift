@@ -44,32 +44,32 @@ let package = Package(
         .binaryTarget(
             name: "Skillz",
             url: "https://github.com/skillz/swift-package-manager/releases/download/2026.0.316/Skillz.xcframework.zip",
-            checksum: "d48b9d0b3201f1d7f8dc699d049f8bf14b7fcb8a6ee232c49eacce0e0a4e1f28"
+            checksum: "3933c5d79821fd6bd1f8c563f40f30fbb98e0525c0ab201be01fd20df031991a"
         ),
         .binaryTarget(
             name: "KochavaCore",
             url: "https://github.com/skillz/swift-package-manager/releases/download/2026.0.316/KochavaCore.xcframework.zip",
-            checksum: "c9c1c238c65ae805dc406b3f88afb9203194f73cd7d4937b828570cac7d484d0"
+            checksum: "ddd1b5cfca72f792458667fac585844ed9c9d860cbc9bf8dd98adb1cf2519fba"
         ),
         .binaryTarget(
             name: "KochavaTracker",
             url: "https://github.com/skillz/swift-package-manager/releases/download/2026.0.316/KochavaTracker.xcframework.zip",
-            checksum: "2d561464f3c6fc2a679f3a4e3b445d12bb26b80e25072f1104f4fa2a53f6e624"
+            checksum: "dbe87809ebf999764d08618e50128bb31f76313830266a2e87634d8b59de6a78"
         ),
         .binaryTarget(
             name: "AppLovinSDK",
             url: "https://github.com/skillz/swift-package-manager/releases/download/2026.0.316/AppLovinSDK.xcframework.zip",
-            checksum: "379dfdd5a5db5effa580e48d5a6238a8ed021eccd423ab666ddb44f7c8103e83"
+            checksum: "b5c86818ee3ef4bdad2b649e20a69beb6739d8dd09a376d4ef01e26f37a6edba"
         ),
         .binaryTarget(
             name: "RiveRuntime",
             url: "https://github.com/skillz/swift-package-manager/releases/download/2026.0.316/RiveRuntime.xcframework.zip",
-            checksum: "2fbc0e840f268c49966a85688d81bba274ac4c6c98f0288393631cc089de28fd"
+            checksum: "aa115345605cba4f834b64a7a5dd9d404e65bd27e0cb2909cd58eb471bdbccac"
         ),
         .binaryTarget(
             name: "OpenTelemetryApi",
             url: "https://github.com/skillz/swift-package-manager/releases/download/2026.0.316/OpenTelemetryApi.xcframework.zip",
-            checksum: "ba832b26e42df6b8a5ec28a0084d936e9f7bd1e1b4e1c63b4e9f3a88c10acce4"
+            checksum: "273b2a275cd4993fd4c86dc54ebc655756ad42045fb5bd7816c65723642808b4"
         ),
     ]
 )
